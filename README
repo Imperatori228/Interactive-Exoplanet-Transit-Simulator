@@ -1,0 +1,2 @@
+To run this program you got to have Python (this was written for Python 3.15.5, but may run on older versions) and you have to install all of the dependencies with the next command : pip install numpy matplotlib batman-package
+This program was made for a high school astronomy research paper contest, the paper itself is in Georgian and will be uploaded to this github shortly. The program and the comments in code are written both in Georgian and English at the same time.
